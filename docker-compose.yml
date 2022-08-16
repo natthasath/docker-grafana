@@ -1,0 +1,21 @@
+version: '3.9'
+services:
+  web:
+    #image: grafana/grafana:latest
+    image: grafana:latest
+    container_name: grafana
+    restart: always
+    ports:
+      - 3000:3000
+    networks:
+      - default
+    volumes:
+      - data:/data
+
+networks:
+  default:
+    driver: bridge
+
+volumes:
+  data:
+    driver: local
