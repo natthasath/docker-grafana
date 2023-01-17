@@ -1,6 +1,6 @@
 # 🎉 Docker Grafana
 
-Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share beautiful dashboards with your team and foster a data driven culture.
+Grafana is an open-source tool for visualizing and analyzing time-series data. It allows creating and sharing interactive and customizable dashboards to monitor and analyze metrics from various data sources. It is widely used across industries.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
