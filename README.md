@@ -6,7 +6,7 @@ Grafana is an open-source tool for visualizing and analyzing time-series data. I
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 🥈 Run
+### 🏆 Run
 
 - [http://localhost:3000/](http://localhost:3000/) username : `admin` password : `admin`
 
