@@ -13,8 +13,10 @@ services:
 
 networks:
   default:
+    name: docker_grafana_network
     driver: bridge
 
 volumes:
   data:
+    name: docker_grafana_data
     driver: local
